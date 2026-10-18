@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/omry/omegaconf/commit/bba6c5f1fe18ea4f31e2fc841b5743a9197d6384",
       "git:hexsha": "bba6c5f1fe18ea4f31e2fc841b5743a9197d6384",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/omry/omegaconf/commit/7f521275c71565b5bb51d736699e3a11d51bd9cf",
