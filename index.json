@@ -1,0 +1,11 @@
+{
+  "org": "omry",
+  "repo": "omegaconf",
+  "versions": [
+    {
+      "commit": "bba6c5f1fe18ea4f31e2fc841b5743a9197d6384",
+      "tag": "",
+      "parsed_at": "2026-10-18T14:08:30.437297+00:00"
+    }
+  ]
+}
